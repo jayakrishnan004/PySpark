@@ -1,0 +1,16 @@
+Transaction_ID,Customer,Product,Category,Store,Quantity,Unit_Price
+T101,C001,Laptop,Electronics,Kochi,1,55000
+T102,C002,Mouse,Accessories,Trivandrum,2,500
+T103,C003,Keyboard,Accessories,Kochi,1,1500
+T104,C001,Headphones,Electronics,Calicut,2,2000
+T105,C004,Laptop,Electronics,Trivandrum,1,55000
+T106,C005,Mouse,Accessories,Kochi,3,500
+T107,C002,Monitor,Electronics,Calicut,1,12000
+T108,C006,Keyboard,Accessories,Trivandrum,2,1500
+T109,C003,Laptop,Electronics,Kochi,1,55000
+T110,C004,Mouse,Accessories,Calicut,4,500
+T111,C007,Monitor,Electronics,Kochi,2,12000
+T112,C001,Keyboard,Accessories,Calicut,1,1500
+T113,C005,Headphones,Electronics,Trivandrum,1,2000
+T114,C006,Mouse,Accessories,Kochi,2,500
+T115,C007,Laptop,Electronics,Calicut,1,55000
